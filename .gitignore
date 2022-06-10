@@ -1,6 +1,6 @@
-/config.json
-/calistir.bat
-/json.sqlite
-/oriodb.config.json
-/oriodb
-/node_modules
+node_modules
+config.json
+calistir.bat
+json.sqlite
+oriodb.config.json
+oriodb
